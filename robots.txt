@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://m0bik0m.github.io/mobikom/sitemap.xml
