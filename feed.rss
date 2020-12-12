@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>MobikoM</title>
+        <link>https://m0bik0m.github.io/mobikom/index.html</link>
+        <description>News</description>
+            <item>
+                <title>Hurry up!</title>
+                <link>https://m0bik0m.github.io/mobikom/prices.html</link>
+                <description>Hurry up! Back glass change is on discount!</description>
+            </item>
+            <item>
+                <title>Happy holydays!</title>
+                <link>https://laxon17.github.io/codeus/product-aria.html</link>
+                <description>There's a surprise waiting for you, check it out!</description>
+            </item>
+            <item>
+                <title>New models!</title>
+                <link>https://laxon17.github.io/codeus/index.html</link>
+                <description>We have new prdocuts waiting for you!</description>
+            </item>
+    </channel>
+</rss>
