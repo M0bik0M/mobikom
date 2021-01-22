@@ -546,7 +546,7 @@ table:hover{
 	background-color: rgba(255,255,255,0.5);
 	box-shadow: 10px 10px 7px 0px rgba(33,33,33,0.4);
 	text-align: center;
-	padding-top: 70px;
+	padding: 50px;
 	animation-name: caption-right;
 	animation-duration: 2s;	
 	position: relative;
