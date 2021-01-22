@@ -542,7 +542,7 @@ table:hover{
 	position: relative;
 }
 .inshort{
-	height: 450px;
+	width: 50%;
 	width: 800px;
 	background-color: rgba(255,255,255,0.5);
 	box-shadow: 10px 10px 7px 0px rgba(33,33,33,0.4);
@@ -551,6 +551,7 @@ table:hover{
 	animation-name: caption-right;
 	animation-duration: 2s;	
 	position: relative;
+	font-size: 16px;
 }
 @keyframes caption-right{
 	0% {left: 500px; top: 0px;}
