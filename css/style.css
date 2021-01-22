@@ -72,7 +72,7 @@ menu{
 	
 }
 .main-desc h1{
-	font-size: 25px;
+	font-size: 40px;
 	color: #fff
 }
 .description{
@@ -88,7 +88,7 @@ menu{
 }
 .description p{
 	color: #808080;
-	font-size: 25px;
+	font-size: 30px;
 	line-height: 50px;
 }
 .description .text:nth-child(2){
