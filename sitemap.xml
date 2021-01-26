@@ -2,19 +2,19 @@
     <urlset xmlns="http://wwww.sitemaps.org/schemas/sitemap/0.9">
         <url>
             <loc>https://m0bik0m.github.io/mobikom/index.html</loc>
-            <lastmod>2020-12-12</lastmod>
+            <lastmod>2021-1-27</lastmod>
             <changefreq>daily</changefreq>
             <priority>1</priority>
         </url>
         <url>
             <loc>https://m0bik0m.github.io/mobikom/gallery.html</loc>
-            <lastmod>2020-12-8</lastmod>
+            <lastmod>2021-1-27</lastmod>
             <changefreq>weekly</changefreq>
             <priority>0.95</priority>
         </url>
         <url>
             <loc>https://m0bik0m.github.io/mobikom/warranty.html</loc>
-            <lastmod>20202-12-4</lastmod>
+            <lastmod>2021-1-27</lastmod>
             <changefreq>monthly</changefreq>
             <priority>0.8</priority>
         </url>
