@@ -421,11 +421,16 @@ label{
 
 
 
-.description3{
-	display: flex;
+.tables {
 	width: 80%;
-	margin: 150px auto;
-	justify-content: space-between;
+	margin: 100px auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-around;	
+}
+.tables .pricing-info {
+	width: 100%;	
 }
 .pricing-content{
 	border-collapse: collapse;
