@@ -495,11 +495,11 @@ table:hover{
 	flex-direction: row;
 }
 .description4 .gallery .img{
-	width: 20%;	
+	width: 30%;	
 }
 .img img{
-	width: 400px;
-	height: 400px;
+	width: 100%;
+	height: 100%;
 	border-radius:10px;	
 }
 .img img:hover{
